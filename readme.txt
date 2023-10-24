@@ -1,6 +1,6 @@
 README
 
-Program: Assignment 5 (Spaceship Simulator)
+Spaceship Simulator
 
 Overview:
 This program creates an interactive spaceship simulator, wherein users may add
