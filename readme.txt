@@ -1,3 +1,5 @@
+# Spaceship Simulator
+
 README
 
 Program Overview:
